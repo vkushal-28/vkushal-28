@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trello Clone App**
 
-- 🌱 I’m currently learning **TypeScript, Node JS, Express JS**
+- 🌱 I’m currently improving my skills in **TypeScript, Node JS, Express JS**
 
 - 👨‍💻 All of my projects are available at [https://vkushal-28.github.io/portfolio/](https://vkushal-28.github.io/portfolio/)
 
