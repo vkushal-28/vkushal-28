@@ -12,7 +12,6 @@
 - 📫 How to reach me **vkushal28.ca@gmail.com**
 
 - 📄 Know about my experiences [link](resume)
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushal-vala/" height="30" width="50" />
 </a>
 </p>
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
   <div style="padding: 20px; display:flex; justify-content:between;">
@@ -99,7 +97,7 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />   
 </div>
-<br/><br/>
+<br/>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkushal-28&show_icons=true&locale=en&layout=compact" alt="vkushal-28" /></p>
