@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills in **TypeScript, Node JS, Express JS**
 
-- 👨‍💻 All of my projects are available at [https://vkushal-28.github.io/portfolio/](https://vkushal-28.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://vkushal-28.github.io/portfolio/](https://kushal-vala.vercel.app/)
 
 - 💬 Ask me about **ReactJS, NextJS, Tailwind CSS, Material UI**
 
