@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently improving my skills in **TypeScript, Node JS, Express JS**
 
-- 👨‍💻 All of my projects are available at [https://vkushal-28.github.io/portfolio/](https://kushal-vala.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kushal-vala.vercel.app](https://kushal-vala.vercel.app/)
 
 - 💬 Ask me about **ReactJS, NextJS, Tailwind CSS, Material UI**
 
-- 📫 How to reach me **vkushal28.ca@gmail.com**
+- 📫 How to reach me **kushal.vala.dev@gmail.com**
 
 - 📄 Know about my experiences [link](resume)
 
