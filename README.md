@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kushal Vala</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Kushal Anilkumar</h1>
+<h3 align="center">Senior Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Fashiquette**
 
-- 🌱 I’m currently improving my skills in **TypeScript, Node JS, Express JS**
+- 🌱 I’m currently improving my skills in **Cloud, AWS**
 
 - 👨‍💻 All of my projects are available at [https://kushal-vala.vercel.app](https://kushal-vala.vercel.app/)
 
-- 💬 Ask me about **ReactJS, NextJS, Tailwind CSS, Material UI**
+- 💬 Ask me about **ReactJS, NextJS, NodeJS, ExpressJS, TypeScript, Tailwind CSS, Material UI**
 
 - 📫 How to reach me **kushal.vala.dev@gmail.com**
 
