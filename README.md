@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About
 
-I design and ship enterprise web applications end to end: component-driven React/Next.js frontends, Node.js/Express REST APIs and microservices, and the AWS pipelines that deliver them. I care about performance (Core Web Vitals), accessibility (WCAG 2.1 AA), security (OAuth 2.0, JWT, RBAC) and tests that make releases boring. I use AI-assisted tools (Copilot, Cursor, Claude Code) to move faster, and review everything they produce.
+Senior Full Stack Developer with 8 years of experience architecting enterprise web platforms across banking, energy and technology. I build component-driven React 19 / Next.js / TypeScript frontends and secure Node.js/Express microservices (OAuth 2.0, JWT, RBAC), shipped through AWS CI/CD pipelines. In banking, I built real-time dashboards handling 50,000+ daily transactions, cutting load time from 4s to 1.5s and lifting API throughput by 35%. In energy, I improved page performance by 30% and reached green Core Web Vitals, with WCAG 2.1 AA accessible UIs. Earlier, I designed serverless and containerized services on AWS (Lambda, ECS Fargate) that cut operational overhead by 40% and sped up releases by 50%. I lead code reviews, mentor junior engineers, and back every release with 85%+ test coverage, using AI tools (Copilot, Cursor, Claude Code) with rigorous review.
 
 ## 🏢 Experience
 
@@ -76,6 +76,7 @@ I design and ship enterprise web applications end to end: component-driven React
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Taskboard**](https://taskboard-murex-omega.vercel.app/) ✅ | Task management app, live on Vercel | Full stack |
 | [**portfolio-v2**](https://github.com/vkushal-28/portfolio-v2) | Personal portfolio, rebuilt from scratch | React, TypeScript, Vite, Tailwind, Framer Motion |
 | [**docMeet**](https://github.com/vkushal-28/docMeet) | Full-stack app | JavaScript |
 | [**chatty**](https://github.com/vkushal-28/chatty) | Real-time chat app | JavaScript |
